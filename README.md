@@ -8,7 +8,7 @@ Adverserial-Prompt-detector-UI/
 │   └── Procfile
 ├── frontend/
 │   ├── src/
-│   │   └── App.jsx (replace with RedTeamDetector.jsx content)
+│   │   └── RedTeamDetector.jsx
 │   ├── package.json
 │   └── .env
 ├── README.md
